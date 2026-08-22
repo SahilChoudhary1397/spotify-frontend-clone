@@ -1,6 +1,5 @@
-# Spotify Frontend Clone
-
-An old Spotify frontend clone I built while learning web development.
+# Spotify-Frontend-Clone
+An old Spotify frontend clone i built while learning web development.
 
 ## About
 
@@ -16,3 +15,4 @@ It was created as a learning project to practice HTML & CSS.
 ## Note
 
 This is a learning project add is not affiliated with or endorsed by Spotify.
+
